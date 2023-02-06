@@ -3,8 +3,18 @@ body
     color: saddlebrown;
     text-align: center;
     font-family: "Arial";
-    font-size: 0;
+    font-size: 16px;
+    margin: 0;
     padding: 0;
+}
+
+#cabecera
+{
+    background: skyblue;
+    color: cornflowerblue;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5;
 }
 
 #container
